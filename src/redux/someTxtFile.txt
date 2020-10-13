@@ -1,0 +1,30 @@
+// store 
+
+// reducers
+   1) Todo Reducer 
+       ---Add Acction
+       ---Resolve Action/complete Action
+    2) Login Reducer ** just for the sake of redux
+       ---Submit Action
+       ---handle Text Action
+    3) Signup Reducer
+        *** Same as Login Reducer 
+    4) for application extras ....
+            loader function
+
+// Actions
+    1) Add Todo
+    2) Resolve Todo
+    3) Submit Todo
+    4) HandleText 
+    5) Loader Action
+
+
+// Action Creators
+    1) Add Creators
+    2) Resolve Creator
+    3) Submit Creator
+    4) HandleText Creators
+    5) Loader Creator
+
+    
